@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2026-04-10T10:28:39Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.67,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "PCB"
+        },
+        "Owner": "Patricia-Iulia Bratu <patricia.bratu@stud.acs.upb.ro>",
+        "Size": {
+            "X": 46,
+            "Y": 35
+        }
+    }
+}
